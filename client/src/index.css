@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', sans-serif !important;
+} 
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  color: chocolate;
+}
+ h1{
+   font-size: 17px !important;
+ }
+ .flex-container{
+   display: flex !important;
+ }
+
+ .btn{
+   background-color: red !important;
+ }
+ select{
+   box-shadow: none !important;
+   border-color: black !important;
+ }
+ .fa-trash{
+   color: red !important;
+ }
+ input{
+   margin: 2 !important;
+   box-shadow: none !important;
+ }
+ .Register{
+   color: blue !important;
+ }
+ .Home{
+   background-color: aquamarine !important;
+ }
+ .LOGIN{
+   background-color: aqua !important;
+ }
+ .CARTPAGE{
+   background-color: aquamarine !important;
+ }
+ .REGISTER{
+   background-color: aqua !important;
+ }

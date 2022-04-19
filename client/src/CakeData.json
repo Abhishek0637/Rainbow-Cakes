@@ -1,0 +1,98 @@
+[
+    {
+    "name":"Chocolate Cake",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":750,
+            "medium":1300,
+            "large":2000
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/chocolate-cake-300x185.jpg",
+    "description":"Chocolate Cake : This wickedly delicious rich moist chocolate cake is smothered in a complete case of finest chocolate."
+},{
+    "name":"Angel Food Cake",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":500,
+            "medium":900,
+            "large":1300
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/angel-food-cake-300x185.jpg",
+    "description":"The Angel Food Cake is baked in a tube pan and uses egg whites, cream of tartar, flour, and sugar as ingredients."
+},{
+    "name":"Black Forest Cake",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":600,
+            "medium":1000,
+            "large":1400
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/black-forest-cake-300x185.jpg",
+    "description":"The black forest cake is originated in Germany and usually made using chocolate, whipped cream, and cherries."
+},{
+    "name":"Cupcakes",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":600
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/cupcake-300x185.jpg",
+    "description":"A cup-sized version of cakes, cupcakes are too good for small and sweet hunger calls. From kids to elderly people, everyone is fond of these tiny delicacies."
+},{
+    "name":"Heart-Shaped Cake",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":500,
+            "medium":750,
+            "large":1150
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/heart-shaped-cake-300x185.jpg",
+    "description":"Heartshaped cakes mostly sell on occasions like Valentine’s Day and Anniversaries. Can be baked in any flavour!"
+},{
+    "name":"Rainbow Cake",
+    "varients":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":300,
+            "medium":550,
+            "large":950
+        }
+    ],
+    "image":"https://www.bakingo.com/blog/wp-content/uploads/2020/06/rainbow-cake-300x185.jpg",
+    "description":"As the name defines, rainbow cakes look like a rainbow. They have seven different layers of all the colours from the rainbow. Kids are fond of the colours, and also, it is a feast on romance."
+}]
