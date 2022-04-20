@@ -16,8 +16,11 @@
 <img src='Images/Cart.png' />
 
 Using Technology :
+
       FrontEnd :- React, HTML, CSS, Redux, JavaScript
+      
       BackEnd  :- NODE, Express
+      
       DATABASE :- MONGODB
       
 
@@ -29,8 +32,11 @@ I am currently working on it now,It has the functionality of
 
 
 Future Scope :
+
 1.Order details realted to user
-2.payment getway 
+
+2.payment getway
+
 3.Admin pannel
 
          
